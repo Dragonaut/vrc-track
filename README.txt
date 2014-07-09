@@ -1,5 +1,6 @@
+			Project by Ray Alfano
+		Documentation by Ray Alfano and Jwalin Patel
 
-			Welcome Team Mates  
 ===============================================================
 
 	Veterans Resource Center (VRC)  Project
